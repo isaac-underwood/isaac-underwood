@@ -1,7 +1,5 @@
 # Welcome
 
-### I am an Information Technology graduate with a passion for technology.
-
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
 <br />
