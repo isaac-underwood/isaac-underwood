@@ -1,5 +1,9 @@
 # Welcome
 
+## Current project: [geographical-guacamole](https://github.com/isaac-underwood/geographical-guacamole), a machine learning project.
+
+---
+
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
 <br />
